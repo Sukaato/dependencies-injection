@@ -1,5 +1,5 @@
 {
-  "name": "typescript-dependencies-injections",
+  "name": "dependencies-injection",
   "version": "1.0.0",
   "description": "Test dependencies injection in typescript",
   "main": "dist/index.js",
@@ -14,12 +14,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sukaato/dependencies-injection-typescript.git"
+    "url": "git+https://github.com/Sukaato/dependencies-injection.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sukaato/dependencies-injection-typescript/issues"
+    "url": "https://github.com/Sukaato/dependencies-injection/issues"
   },
   "devDependencies": {
     "reflect-metadata": "^0.1.13"
